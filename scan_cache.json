@@ -1,0 +1,4122 @@
+{
+  "360ONE": {
+    "Symbol": "360ONE",
+    "Verdict": "BUY",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 56.5,
+    "Target Entry (\u20b9)": 1062.33,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:360ONE",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1142.9,
+    "Diff % vs Entry": "+7.58%"
+  },
+  "3MINDIA": {
+    "Symbol": "3MINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 54.19,
+    "Target Entry (\u20b9)": 32133.51,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:3MINDIA",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 34940.0,
+    "Diff % vs Entry": "+8.73%"
+  },
+  "AADHARHFC": {
+    "Symbol": "AADHARHFC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 39.47,
+    "Target Entry (\u20b9)": 507.15,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AADHARHFC",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 490.75,
+    "Diff % vs Entry": "-3.23%"
+  },
+  "AARTIIND": {
+    "Symbol": "AARTIIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 53.17,
+    "Target Entry (\u20b9)": 450.88,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AARTIIND",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 489.1,
+    "Diff % vs Entry": "+8.48%"
+  },
+  "AAVAS": {
+    "Symbol": "AAVAS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 36.8,
+    "Target Entry (\u20b9)": 1494.91,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AAVAS",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1362.6,
+    "Diff % vs Entry": "-8.85%"
+  },
+  "ABB": {
+    "Symbol": "ABB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 53.24,
+    "Target Entry (\u20b9)": 6969.22,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABB",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 7291.5,
+    "Diff % vs Entry": "+4.62%"
+  },
+  "ABBOTINDIA": {
+    "Symbol": "ABBOTINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 60.8,
+    "Target Entry (\u20b9)": 24681.41,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABBOTINDIA",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 27555.0,
+    "Diff % vs Entry": "+11.64%"
+  },
+  "ABCAPITAL": {
+    "Symbol": "ABCAPITAL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 50.48,
+    "Target Entry (\u20b9)": 386.03,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABCAPITAL",
+    "One-Line Executive Thesis": "AAPL stock chart for abc capital daily 50/200 ema RSI 14 (14-day moving average)",
+    "CMP (\u20b9)": 394.05,
+    "Diff % vs Entry": "+2.08%"
+  },
+  "ABDL": {
+    "Symbol": "ABDL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 47.38,
+    "Target Entry (\u20b9)": 655.67,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABDL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 619.5,
+    "Diff % vs Entry": "-5.52%"
+  },
+  "ABFRL": {
+    "Symbol": "ABFRL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 50.97,
+    "Target Entry (\u20b9)": 57.35,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABFRL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 58.94,
+    "Diff % vs Entry": "+2.77%"
+  },
+  "ABLBL": {
+    "Symbol": "ABLBL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 45.37,
+    "Target Entry (\u20b9)": 95.43,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABLBL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 94.45,
+    "Diff % vs Entry": "-1.03%"
+  },
+  "ABREL": {
+    "Symbol": "ABREL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 48.26,
+    "Target Entry (\u20b9)": 1301.87,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABREL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1378.1,
+    "Diff % vs Entry": "+5.86%"
+  },
+  "ABSLAMC": {
+    "Symbol": "ABSLAMC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 40.51,
+    "Target Entry (\u20b9)": 1106.86,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ABSLAMC",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1008.8,
+    "Diff % vs Entry": "-8.86%"
+  },
+  "ACC": {
+    "Symbol": "ACC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 49.14,
+    "Target Entry (\u20b9)": 1316.93,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ACC",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1356.5,
+    "Diff % vs Entry": "+3.0%"
+  },
+  "ACE": {
+    "Symbol": "ACE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 59.87,
+    "Target Entry (\u20b9)": 1005.99,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ACE",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1057.2,
+    "Diff % vs Entry": "+5.09%"
+  },
+  "ACMESOLAR": {
+    "Symbol": "ACMESOLAR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 46.82,
+    "Target Entry (\u20b9)": 372.46,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ACMESOLAR",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 360.7,
+    "Diff % vs Entry": "-3.16%"
+  },
+  "ACUTAAS": {
+    "Symbol": "ACUTAAS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 36.29,
+    "Target Entry (\u20b9)": 3461.89,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ACUTAAS",
+    "One-Line Executive Thesis": "Auction stock chart for acutas daily 50 (200 ema) and 200 ema RS (14) from 2016-2018",
+    "CMP (\u20b9)": 3104.9,
+    "Diff % vs Entry": "-10.31%"
+  },
+  "ADANIENSOL": {
+    "Symbol": "ADANIENSOL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 51.33,
+    "Target Entry (\u20b9)": 1475.84,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ADANIENSOL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1645.4,
+    "Diff % vs Entry": "+11.49%"
+  },
+  "ADANIENT": {
+    "Symbol": "ADANIENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 44.51,
+    "Target Entry (\u20b9)": 3014.02,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ADANIENT",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 3009.5,
+    "Diff % vs Entry": "-0.15%"
+  },
+  "ADANIGREEN": {
+    "Symbol": "ADANIGREEN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 38.43,
+    "Target Entry (\u20b9)": 1477.44,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ADANIGREEN",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1383.0,
+    "Diff % vs Entry": "-6.39%"
+  },
+  "ADANIPORTS": {
+    "Symbol": "ADANIPORTS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 34.47,
+    "Target Entry (\u20b9)": 1799.88,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ADANIPORTS",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1696.5,
+    "Diff % vs Entry": "-5.74%"
+  },
+  "ADANIPOWER": {
+    "Symbol": "ADANIPOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 41.9,
+    "Target Entry (\u20b9)": 220.94,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ADANIPOWER",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 211.31,
+    "Diff % vs Entry": "-4.36%"
+  },
+  "AEGISLOG": {
+    "Symbol": "AEGISLOG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 54.37,
+    "Target Entry (\u20b9)": 1126.84,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AEGISLOG",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1280.8,
+    "Diff % vs Entry": "+13.66%"
+  },
+  "AEGISVOPAK": {
+    "Symbol": "AEGISVOPAK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 58.83,
+    "Target Entry (\u20b9)": 228.39,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AEGISVOPAK",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 290.16,
+    "Diff % vs Entry": "+27.05%"
+  },
+  "AFCONS": {
+    "Symbol": "AFCONS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 30.65,
+    "Target Entry (\u20b9)": 306.7,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AFCONS",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 273.25,
+    "Diff % vs Entry": "-10.91%"
+  },
+  "AFFLE": {
+    "Symbol": "AFFLE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 58.3,
+    "Target Entry (\u20b9)": 1406.25,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AFFLE",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1586.0,
+    "Diff % vs Entry": "+12.78%"
+  },
+  "AIAENG": {
+    "Symbol": "AIAENG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 43.62,
+    "Target Entry (\u20b9)": 4999.86,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AIAENG",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 4563.5,
+    "Diff % vs Entry": "-8.73%"
+  },
+  "AIIL": {
+    "Symbol": "AIIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 54.85,
+    "Target Entry (\u20b9)": 511.46,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AIIL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 545.9,
+    "Diff % vs Entry": "+6.73%"
+  },
+  "AJANTPHARM": {
+    "Symbol": "AJANTPHARM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 58.8,
+    "Target Entry (\u20b9)": 3365.18,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AJANTPHARM",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 3465.2,
+    "Diff % vs Entry": "+2.97%"
+  },
+  "ALKEM": {
+    "Symbol": "ALKEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 65.87,
+    "Target Entry (\u20b9)": 5529.16,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ALKEM",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 5816.5,
+    "Diff % vs Entry": "+5.2%"
+  },
+  "AMBER": {
+    "Symbol": "AMBER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 44.25,
+    "Target Entry (\u20b9)": 7429.35,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AMBER",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 7401.0,
+    "Diff % vs Entry": "-0.38%"
+  },
+  "AMBUJACEM": {
+    "Symbol": "AMBUJACEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "5 / 10",
+    "Daily RSI (14)": 50.9,
+    "Target Entry (\u20b9)": 417.52,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AMBUJACEM",
+    "One-Line Executive Thesis": "Local model error: Ensure Ollama is running (`ollama run moondream`).",
+    "CMP (\u20b9)": 432.2,
+    "Diff % vs Entry": "+3.52%"
+  },
+  "ANANDRATHI": {
+    "Symbol": "ANANDRATHI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 54.48,
+    "Target Entry (\u20b9)": 1947.17,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ANANDRATHI",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 2039.3,
+    "Diff % vs Entry": "+4.73%"
+  },
+  "ANANTRAJ": {
+    "Symbol": "ANANTRAJ",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 65.91,
+    "Target Entry (\u20b9)": 512.3,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ANANTRAJ",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 624.5,
+    "Diff % vs Entry": "+21.9%"
+  },
+  "ANGELONE": {
+    "Symbol": "ANGELONE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 34.37,
+    "Target Entry (\u20b9)": 325.89,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ANGELONE",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 297.95,
+    "Diff % vs Entry": "-8.57%"
+  },
+  "ANTHEM": {
+    "Symbol": "ANTHEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 55.13,
+    "Target Entry (\u20b9)": 763.34,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ANTHEM",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 784.4,
+    "Diff % vs Entry": "+2.76%"
+  },
+  "ANURAS": {
+    "Symbol": "ANURAS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 25.48,
+    "Target Entry (\u20b9)": 1249.69,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ANURAS",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1207.8,
+    "Diff % vs Entry": "-3.35%"
+  },
+  "APARINDS": {
+    "Symbol": "APARINDS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 52.87,
+    "Target Entry (\u20b9)": 15269.12,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:APARINDS",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 14348.0,
+    "Diff % vs Entry": "-6.03%"
+  },
+  "APLAPOLLO": {
+    "Symbol": "APLAPOLLO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 48.15,
+    "Target Entry (\u20b9)": 1775.64,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:APLAPOLLO",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1819.5,
+    "Diff % vs Entry": "+2.47%"
+  },
+  "APOLLOHOSP": {
+    "Symbol": "APOLLOHOSP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 64.79,
+    "Target Entry (\u20b9)": 8594.55,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:APOLLOHOSP",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 8988.0,
+    "Diff % vs Entry": "+4.58%"
+  },
+  "APOLLOTYRE": {
+    "Symbol": "APOLLOTYRE",
+    "Verdict": "BUY",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 47.85,
+    "Target Entry (\u20b9)": 421.75,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:APOLLOTYRE",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 423.2,
+    "Diff % vs Entry": "+0.34%"
+  },
+  "APTUS": {
+    "Symbol": "APTUS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 33.93,
+    "Target Entry (\u20b9)": 275.74,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:APTUS",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 261.2,
+    "Diff % vs Entry": "-5.27%"
+  },
+  "ARE&M": {
+    "Symbol": "ARE&M",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 60.94,
+    "Target Entry (\u20b9)": 827.44,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ARE&M",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 906.85,
+    "Diff % vs Entry": "+9.6%"
+  },
+  "ASAHIINDIA": {
+    "Symbol": "ASAHIINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 45.56,
+    "Target Entry (\u20b9)": 841.88,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ASAHIINDIA",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 869.3,
+    "Diff % vs Entry": "+3.26%"
+  },
+  "ASHOKLEY": {
+    "Symbol": "ASHOKLEY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 65.45,
+    "Target Entry (\u20b9)": 155.48,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ASHOKLEY",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 166.18,
+    "Diff % vs Entry": "+6.88%"
+  },
+  "ASIANPAINT": {
+    "Symbol": "ASIANPAINT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 59.99,
+    "Target Entry (\u20b9)": 2615.09,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ASIANPAINT",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 2746.2,
+    "Diff % vs Entry": "+5.01%"
+  },
+  "ASTERDM": {
+    "Symbol": "ASTERDM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 59.75,
+    "Target Entry (\u20b9)": 772.97,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ASTERDM",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 822.15,
+    "Diff % vs Entry": "+6.36%"
+  },
+  "ASTRAL": {
+    "Symbol": "ASTRAL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 59.2,
+    "Target Entry (\u20b9)": 1311.22,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ASTRAL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1471.9,
+    "Diff % vs Entry": "+12.25%"
+  },
+  "ATGL": {
+    "Symbol": "ATGL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 34.8,
+    "Target Entry (\u20b9)": 721.19,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ATGL",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 651.45,
+    "Diff % vs Entry": "-9.67%"
+  },
+  "ATHERENERG": {
+    "Symbol": "ATHERENERG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Daily RSI (14)": 61.94,
+    "Target Entry (\u20b9)": 1120.4,
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ATHERENERG",
+    "One-Line Executive Thesis": "",
+    "CMP (\u20b9)": 1260.3,
+    "Diff % vs Entry": "+12.49%"
+  },
+  "ATUL": {
+    "Symbol": "ATUL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ATUL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 60.96,
+    "CMP (\u20b9)": 6736.5,
+    "Target Entry (\u20b9)": 6382.75,
+    "Diff % vs Entry": "+5.54%"
+  },
+  "AUBANK": {
+    "Symbol": "AUBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AUBANK",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 55.07,
+    "CMP (\u20b9)": 1047.3,
+    "Target Entry (\u20b9)": 1023.42,
+    "Diff % vs Entry": "+2.33%"
+  },
+  "AUROPHARMA": {
+    "Symbol": "AUROPHARMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AUROPHARMA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 56.55,
+    "CMP (\u20b9)": 1576.3,
+    "Target Entry (\u20b9)": 1560.56,
+    "Diff % vs Entry": "+1.01%"
+  },
+  "AWL": {
+    "Symbol": "AWL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AWL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 51.85,
+    "CMP (\u20b9)": 189.44,
+    "Target Entry (\u20b9)": 181.83,
+    "Diff % vs Entry": "+4.19%"
+  },
+  "AXISBANK": {
+    "Symbol": "AXISBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:AXISBANK",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 33.77,
+    "CMP (\u20b9)": 1229.5,
+    "Target Entry (\u20b9)": 1329.11,
+    "Diff % vs Entry": "-7.49%"
+  },
+  "BAJAJ-AUTO": {
+    "Symbol": "BAJAJ-AUTO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BAJAJ-AUTO",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 73.56,
+    "CMP (\u20b9)": 11432.0,
+    "Target Entry (\u20b9)": 9613.52,
+    "Diff % vs Entry": "+18.92%"
+  },
+  "BAJAJFINSV": {
+    "Symbol": "BAJAJFINSV",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BAJAJFINSV",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 72.22,
+    "CMP (\u20b9)": 2029.1,
+    "Target Entry (\u20b9)": 1765.06,
+    "Diff % vs Entry": "+14.96%"
+  },
+  "BAJAJHFL": {
+    "Symbol": "BAJAJHFL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BAJAJHFL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 47.97,
+    "CMP (\u20b9)": 86.02,
+    "Target Entry (\u20b9)": 86.67,
+    "Diff % vs Entry": "-0.75%"
+  },
+  "BAJAJHLDNG": {
+    "Symbol": "BAJAJHLDNG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BAJAJHLDNG",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 62.6,
+    "CMP (\u20b9)": 10970.0,
+    "Target Entry (\u20b9)": 10494.92,
+    "Diff % vs Entry": "+4.53%"
+  },
+  "BAJFINANCE": {
+    "Symbol": "BAJFINANCE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BAJFINANCE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 74.21,
+    "CMP (\u20b9)": 1141.2,
+    "Target Entry (\u20b9)": 990.95,
+    "Diff % vs Entry": "+15.16%"
+  },
+  "BALKRISIND": {
+    "Symbol": "BALKRISIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BALKRISIND",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 73.65,
+    "CMP (\u20b9)": 2473.5,
+    "Target Entry (\u20b9)": 2147.33,
+    "Diff % vs Entry": "+15.19%"
+  },
+  "BALRAMCHIN": {
+    "Symbol": "BALRAMCHIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BALRAMCHIN",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 55.39,
+    "CMP (\u20b9)": 596.3,
+    "Target Entry (\u20b9)": 549.77,
+    "Diff % vs Entry": "+8.46%"
+  },
+  "BANDHANBNK": {
+    "Symbol": "BANDHANBNK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BANDHANBNK",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 35.85,
+    "CMP (\u20b9)": 174.13,
+    "Target Entry (\u20b9)": 201.92,
+    "Diff % vs Entry": "-13.76%"
+  },
+  "BANKBARODA": {
+    "Symbol": "BANKBARODA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BANKBARODA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 40.6,
+    "CMP (\u20b9)": 242.6,
+    "Target Entry (\u20b9)": 269.72,
+    "Diff % vs Entry": "-10.05%"
+  },
+  "BANKINDIA": {
+    "Symbol": "BANKINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BANKINDIA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 43.5,
+    "CMP (\u20b9)": 137.95,
+    "Target Entry (\u20b9)": 138.9,
+    "Diff % vs Entry": "-0.68%"
+  },
+  "BATAINDIA": {
+    "Symbol": "BATAINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BATAINDIA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 55.27,
+    "CMP (\u20b9)": 696.15,
+    "Target Entry (\u20b9)": 661.38,
+    "Diff % vs Entry": "+5.26%"
+  },
+  "BAYERCROP": {
+    "Symbol": "BAYERCROP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BAYERCROP",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 50.0,
+    "CMP (\u20b9)": 4226.5,
+    "Target Entry (\u20b9)": 4092.69,
+    "Diff % vs Entry": "+3.27%"
+  },
+  "BBTC": {
+    "Symbol": "BBTC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BBTC",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 47.4,
+    "CMP (\u20b9)": 1497.1,
+    "Target Entry (\u20b9)": 1521.18,
+    "Diff % vs Entry": "-1.58%"
+  },
+  "BDL": {
+    "Symbol": "BDL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BDL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 42.14,
+    "CMP (\u20b9)": 1253.1,
+    "Target Entry (\u20b9)": 1342.25,
+    "Diff % vs Entry": "-6.64%"
+  },
+  "BEL": {
+    "Symbol": "BEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BEL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 33.18,
+    "CMP (\u20b9)": 387.85,
+    "Target Entry (\u20b9)": 408.5,
+    "Diff % vs Entry": "-5.06%"
+  },
+  "BELRISE": {
+    "Symbol": "BELRISE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BELRISE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 55.18,
+    "CMP (\u20b9)": 236.73,
+    "Target Entry (\u20b9)": 234.77,
+    "Diff % vs Entry": "+0.83%"
+  },
+  "BEML": {
+    "Symbol": "BEML",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BEML",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 45.18,
+    "CMP (\u20b9)": 1750.4,
+    "Target Entry (\u20b9)": 1747.65,
+    "Diff % vs Entry": "+0.16%"
+  },
+  "BERGEPAINT": {
+    "Symbol": "BERGEPAINT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BERGEPAINT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 58.44,
+    "CMP (\u20b9)": 521.35,
+    "Target Entry (\u20b9)": 502.89,
+    "Diff % vs Entry": "+3.67%"
+  },
+  "BHARATFORG": {
+    "Symbol": "BHARATFORG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BHARATFORG",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 61.33,
+    "CMP (\u20b9)": 2199.8,
+    "Target Entry (\u20b9)": 2104.03,
+    "Diff % vs Entry": "+4.55%"
+  },
+  "BHARTIARTL": {
+    "Symbol": "BHARTIARTL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BHARTIARTL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 67.27,
+    "CMP (\u20b9)": 1972.0,
+    "Target Entry (\u20b9)": 1814.58,
+    "Diff % vs Entry": "+8.68%"
+  },
+  "BHARTIHEXA": {
+    "Symbol": "BHARTIHEXA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BHARTIHEXA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 57.96,
+    "CMP (\u20b9)": 1607.5,
+    "Target Entry (\u20b9)": 1458.05,
+    "Diff % vs Entry": "+10.25%"
+  },
+  "BHEL": {
+    "Symbol": "BHEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BHEL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 50.8,
+    "CMP (\u20b9)": 407.0,
+    "Target Entry (\u20b9)": 407.64,
+    "Diff % vs Entry": "-0.16%"
+  },
+  "BIKAJI": {
+    "Symbol": "BIKAJI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BIKAJI",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 50.54,
+    "CMP (\u20b9)": 643.7,
+    "Target Entry (\u20b9)": 645.04,
+    "Diff % vs Entry": "-0.21%"
+  },
+  "BIOCON": {
+    "Symbol": "BIOCON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BIOCON",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 49.05,
+    "CMP (\u20b9)": 425.35,
+    "Target Entry (\u20b9)": 415.13,
+    "Diff % vs Entry": "+2.46%"
+  },
+  "BLS": {
+    "Symbol": "BLS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BLS",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 45.21,
+    "CMP (\u20b9)": 238.75,
+    "Target Entry (\u20b9)": 247.98,
+    "Diff % vs Entry": "-3.72%"
+  },
+  "BLUEDART": {
+    "Symbol": "BLUEDART",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BLUEDART",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 56.27,
+    "CMP (\u20b9)": 5025.9,
+    "Target Entry (\u20b9)": 4823.46,
+    "Diff % vs Entry": "+4.2%"
+  },
+  "BLUEJET": {
+    "Symbol": "BLUEJET",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BLUEJET",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 65.38,
+    "CMP (\u20b9)": 612.45,
+    "Target Entry (\u20b9)": 514.86,
+    "Diff % vs Entry": "+18.95%"
+  },
+  "BLUESTARCO": {
+    "Symbol": "BLUESTARCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BLUESTARCO",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 54.14,
+    "CMP (\u20b9)": 1681.2,
+    "Target Entry (\u20b9)": 1601.23,
+    "Diff % vs Entry": "+4.99%"
+  },
+  "BOSCHLTD": {
+    "Symbol": "BOSCHLTD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BOSCHLTD",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 56.87,
+    "CMP (\u20b9)": 41550.0,
+    "Target Entry (\u20b9)": 39383.92,
+    "Diff % vs Entry": "+5.5%"
+  },
+  "BPCL": {
+    "Symbol": "BPCL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BPCL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 58.58,
+    "CMP (\u20b9)": 319.75,
+    "Target Entry (\u20b9)": 299.76,
+    "Diff % vs Entry": "+6.67%"
+  },
+  "BRIGADE": {
+    "Symbol": "BRIGADE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BRIGADE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 57.49,
+    "CMP (\u20b9)": 565.1,
+    "Target Entry (\u20b9)": 489.79,
+    "Diff % vs Entry": "+15.38%"
+  },
+  "BRITANNIA": {
+    "Symbol": "BRITANNIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BRITANNIA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 63.25,
+    "CMP (\u20b9)": 5434.0,
+    "Target Entry (\u20b9)": 5038.43,
+    "Diff % vs Entry": "+7.85%"
+  },
+  "BSE": {
+    "Symbol": "BSE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BSE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 46.41,
+    "CMP (\u20b9)": 3646.2,
+    "Target Entry (\u20b9)": 3815.66,
+    "Diff % vs Entry": "-4.44%"
+  },
+  "BSOFT": {
+    "Symbol": "BSOFT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:BSOFT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 54.99,
+    "CMP (\u20b9)": 302.4,
+    "Target Entry (\u20b9)": 275.65,
+    "Diff % vs Entry": "+9.7%"
+  },
+  "CAMS": {
+    "Symbol": "CAMS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CAMS",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 56.71,
+    "CMP (\u20b9)": 796.15,
+    "Target Entry (\u20b9)": 782.16,
+    "Diff % vs Entry": "+1.79%"
+  },
+  "CANBK": {
+    "Symbol": "CANBK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CANBK",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 46.08,
+    "CMP (\u20b9)": 124.98,
+    "Target Entry (\u20b9)": 124.27,
+    "Diff % vs Entry": "+0.57%"
+  },
+  "CANFINHOME": {
+    "Symbol": "CANFINHOME",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CANFINHOME",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 36.43,
+    "CMP (\u20b9)": 816.3,
+    "Target Entry (\u20b9)": 850.47,
+    "Diff % vs Entry": "-4.02%"
+  },
+  "CANHLIFE": {
+    "Symbol": "CANHLIFE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CANHLIFE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 52.38,
+    "CMP (\u20b9)": 147.13,
+    "Target Entry (\u20b9)": 138.72,
+    "Diff % vs Entry": "+6.06%"
+  },
+  "CAPLIPOINT": {
+    "Symbol": "CAPLIPOINT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CAPLIPOINT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 49.25,
+    "CMP (\u20b9)": 2516.8,
+    "Target Entry (\u20b9)": 2559.54,
+    "Diff % vs Entry": "-1.67%"
+  },
+  "CARBORUNIV": {
+    "Symbol": "CARBORUNIV",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CARBORUNIV",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 45.79,
+    "CMP (\u20b9)": 1063.8,
+    "Target Entry (\u20b9)": 1146.71,
+    "Diff % vs Entry": "-7.23%"
+  },
+  "CARTRADE": {
+    "Symbol": "CARTRADE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CARTRADE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 54.15,
+    "CMP (\u20b9)": 2791.7,
+    "Target Entry (\u20b9)": 2599.33,
+    "Diff % vs Entry": "+7.4%"
+  },
+  "CASTROLIND": {
+    "Symbol": "CASTROLIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CASTROLIND",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 52.6,
+    "CMP (\u20b9)": 184.82,
+    "Target Entry (\u20b9)": 183.74,
+    "Diff % vs Entry": "+0.59%"
+  },
+  "CCL": {
+    "Symbol": "CCL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CCL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 41.86,
+    "CMP (\u20b9)": 1155.3,
+    "Target Entry (\u20b9)": 1163.49,
+    "Diff % vs Entry": "-0.7%"
+  },
+  "CDSL": {
+    "Symbol": "CDSL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CDSL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 48.33,
+    "CMP (\u20b9)": 1333.0,
+    "Target Entry (\u20b9)": 1274.28,
+    "Diff % vs Entry": "+4.61%"
+  },
+  "CEATLTD": {
+    "Symbol": "CEATLTD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CEATLTD",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 46.54,
+    "CMP (\u20b9)": 3429.0,
+    "Target Entry (\u20b9)": 3403.06,
+    "Diff % vs Entry": "+0.76%"
+  },
+  "CEMPRO": {
+    "Symbol": "CEMPRO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CEMPRO",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 42.56,
+    "CMP (\u20b9)": 1358.7,
+    "Target Entry (\u20b9)": 1270.07,
+    "Diff % vs Entry": "+6.98%"
+  },
+  "CENTRALBK": {
+    "Symbol": "CENTRALBK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CENTRALBK",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 41.83,
+    "CMP (\u20b9)": 30.97,
+    "Target Entry (\u20b9)": 32.06,
+    "Diff % vs Entry": "-3.4%"
+  },
+  "CESC": {
+    "Symbol": "CESC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CESC",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 48.75,
+    "CMP (\u20b9)": 165.57,
+    "Target Entry (\u20b9)": 166.93,
+    "Diff % vs Entry": "-0.81%"
+  },
+  "CGCL": {
+    "Symbol": "CGCL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CGCL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 47.94,
+    "CMP (\u20b9)": 232.38,
+    "Target Entry (\u20b9)": 224.34,
+    "Diff % vs Entry": "+3.58%"
+  },
+  "CGPOWER": {
+    "Symbol": "CGPOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CGPOWER",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 42.43,
+    "CMP (\u20b9)": 863.4,
+    "Target Entry (\u20b9)": 944.19,
+    "Diff % vs Entry": "-8.56%"
+  },
+  "CHALET": {
+    "Symbol": "CHALET",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CHALET",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 43.39,
+    "CMP (\u20b9)": 805.0,
+    "Target Entry (\u20b9)": 804.39,
+    "Diff % vs Entry": "+0.08%"
+  },
+  "CHAMBLFERT": {
+    "Symbol": "CHAMBLFERT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CHAMBLFERT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 45.37,
+    "CMP (\u20b9)": 445.85,
+    "Target Entry (\u20b9)": 463.12,
+    "Diff % vs Entry": "-3.73%"
+  },
+  "CHENNPETRO": {
+    "Symbol": "CHENNPETRO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CHENNPETRO",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 58.76,
+    "CMP (\u20b9)": 1260.6,
+    "Target Entry (\u20b9)": 1138.99,
+    "Diff % vs Entry": "+10.68%"
+  },
+  "CHOICEIN": {
+    "Symbol": "CHOICEIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CHOICEIN",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 57.17,
+    "CMP (\u20b9)": 798.7,
+    "Target Entry (\u20b9)": 741.47,
+    "Diff % vs Entry": "+7.72%"
+  },
+  "CHOLAFIN": {
+    "Symbol": "CHOLAFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CHOLAFIN",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 61.2,
+    "CMP (\u20b9)": 1849.9,
+    "Target Entry (\u20b9)": 1754.34,
+    "Diff % vs Entry": "+5.45%"
+  },
+  "CHOLAHLDNG": {
+    "Symbol": "CHOLAHLDNG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CHOLAHLDNG",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 33.0,
+    "CMP (\u20b9)": 1503.4,
+    "Target Entry (\u20b9)": 1631.07,
+    "Diff % vs Entry": "-7.83%"
+  },
+  "CIEINDIA": {
+    "Symbol": "CIEINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CIEINDIA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 29.83,
+    "CMP (\u20b9)": 408.6,
+    "Target Entry (\u20b9)": 452.55,
+    "Diff % vs Entry": "-9.71%"
+  },
+  "CIPLA": {
+    "Symbol": "CIPLA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CIPLA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 61.52,
+    "CMP (\u20b9)": 1473.2,
+    "Target Entry (\u20b9)": 1451.74,
+    "Diff % vs Entry": "+1.48%"
+  },
+  "CLEAN": {
+    "Symbol": "CLEAN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CLEAN",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 41.38,
+    "CMP (\u20b9)": 729.05,
+    "Target Entry (\u20b9)": 749.65,
+    "Diff % vs Entry": "-2.75%"
+  },
+  "COALINDIA": {
+    "Symbol": "COALINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:COALINDIA",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 38.14,
+    "CMP (\u20b9)": 414.15,
+    "Target Entry (\u20b9)": 428.52,
+    "Diff % vs Entry": "-3.35%"
+  },
+  "COCHINSHIP": {
+    "Symbol": "COCHINSHIP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:COCHINSHIP",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 49.64,
+    "CMP (\u20b9)": 1423.0,
+    "Target Entry (\u20b9)": 1493.65,
+    "Diff % vs Entry": "-4.73%"
+  },
+  "COFORGE": {
+    "Symbol": "COFORGE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:COFORGE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 70.96,
+    "CMP (\u20b9)": 1721.0,
+    "Target Entry (\u20b9)": 1444.25,
+    "Diff % vs Entry": "+19.16%"
+  },
+  "COHANCE": {
+    "Symbol": "COHANCE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:COHANCE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 43.71,
+    "CMP (\u20b9)": 425.3,
+    "Target Entry (\u20b9)": 448.55,
+    "Diff % vs Entry": "-5.18%"
+  },
+  "COLPAL": {
+    "Symbol": "COLPAL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:COLPAL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 51.66,
+    "CMP (\u20b9)": 2084.8,
+    "Target Entry (\u20b9)": 1981.52,
+    "Diff % vs Entry": "+5.21%"
+  },
+  "CONCOR": {
+    "Symbol": "CONCOR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CONCOR",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 67.75,
+    "CMP (\u20b9)": 525.15,
+    "Target Entry (\u20b9)": 470.92,
+    "Diff % vs Entry": "+11.52%"
+  },
+  "CONCORDBIO": {
+    "Symbol": "CONCORDBIO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CONCORDBIO",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 70.05,
+    "CMP (\u20b9)": 1420.8,
+    "Target Entry (\u20b9)": 1237.43,
+    "Diff % vs Entry": "+14.82%"
+  },
+  "COROMANDEL": {
+    "Symbol": "COROMANDEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:COROMANDEL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 58.91,
+    "CMP (\u20b9)": 2073.6,
+    "Target Entry (\u20b9)": 1968.75,
+    "Diff % vs Entry": "+5.33%"
+  },
+  "CPPLUS": {
+    "Symbol": "CPPLUS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CPPLUS",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 38.18,
+    "CMP (\u20b9)": 3259.8,
+    "Target Entry (\u20b9)": 3577.59,
+    "Diff % vs Entry": "-8.88%"
+  },
+  "CRAFTSMAN": {
+    "Symbol": "CRAFTSMAN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CRAFTSMAN",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 72.57,
+    "CMP (\u20b9)": 10047.0,
+    "Target Entry (\u20b9)": 9324.96,
+    "Diff % vs Entry": "+7.74%"
+  },
+  "CREDITACC": {
+    "Symbol": "CREDITACC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CREDITACC",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 65.69,
+    "CMP (\u20b9)": 1614.0,
+    "Target Entry (\u20b9)": 1465.03,
+    "Diff % vs Entry": "+10.17%"
+  },
+  "CRISIL": {
+    "Symbol": "CRISIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CRISIL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 61.35,
+    "CMP (\u20b9)": 4406.8,
+    "Target Entry (\u20b9)": 4026.18,
+    "Diff % vs Entry": "+9.45%"
+  },
+  "CROMPTON": {
+    "Symbol": "CROMPTON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CROMPTON",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 51.02,
+    "CMP (\u20b9)": 260.2,
+    "Target Entry (\u20b9)": 268.58,
+    "Diff % vs Entry": "-3.12%"
+  },
+  "CUB": {
+    "Symbol": "CUB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CUB",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 43.12,
+    "CMP (\u20b9)": 206.5,
+    "Target Entry (\u20b9)": 203.92,
+    "Diff % vs Entry": "+1.27%"
+  },
+  "CUMMINSIND": {
+    "Symbol": "CUMMINSIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CUMMINSIND",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 49.66,
+    "CMP (\u20b9)": 5519.0,
+    "Target Entry (\u20b9)": 5569.85,
+    "Diff % vs Entry": "-0.91%"
+  },
+  "CYIENT": {
+    "Symbol": "CYIENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:CYIENT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 47.91,
+    "CMP (\u20b9)": 847.7,
+    "Target Entry (\u20b9)": 863.57,
+    "Diff % vs Entry": "-1.84%"
+  },
+  "DABUR": {
+    "Symbol": "DABUR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DABUR",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 47.9,
+    "CMP (\u20b9)": 426.1,
+    "Target Entry (\u20b9)": 414.31,
+    "Diff % vs Entry": "+2.85%"
+  },
+  "DALBHARAT": {
+    "Symbol": "DALBHARAT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DALBHARAT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 50.38,
+    "CMP (\u20b9)": 1794.2,
+    "Target Entry (\u20b9)": 1685.17,
+    "Diff % vs Entry": "+6.47%"
+  },
+  "DATAPATTNS": {
+    "Symbol": "DATAPATTNS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DATAPATTNS",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 46.34,
+    "CMP (\u20b9)": 4281.0,
+    "Target Entry (\u20b9)": 4386.37,
+    "Diff % vs Entry": "-2.4%"
+  },
+  "DCMSHRIRAM": {
+    "Symbol": "DCMSHRIRAM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DCMSHRIRAM",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 57.17,
+    "CMP (\u20b9)": 1051.9,
+    "Target Entry (\u20b9)": 992.82,
+    "Diff % vs Entry": "+5.95%"
+  },
+  "DEEPAKFERT": {
+    "Symbol": "DEEPAKFERT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DEEPAKFERT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 44.73,
+    "CMP (\u20b9)": 1532.4,
+    "Target Entry (\u20b9)": 1535.3,
+    "Diff % vs Entry": "-0.19%"
+  },
+  "DEEPAKNTR": {
+    "Symbol": "DEEPAKNTR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DEEPAKNTR",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 48.36,
+    "CMP (\u20b9)": 1643.9,
+    "Target Entry (\u20b9)": 1523.15,
+    "Diff % vs Entry": "+7.93%"
+  },
+  "DELHIVERY": {
+    "Symbol": "DELHIVERY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DELHIVERY",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 50.89,
+    "CMP (\u20b9)": 481.95,
+    "Target Entry (\u20b9)": 466.22,
+    "Diff % vs Entry": "+3.37%"
+  },
+  "DEVYANI": {
+    "Symbol": "DEVYANI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DEVYANI",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 51.19,
+    "CMP (\u20b9)": 114.18,
+    "Target Entry (\u20b9)": 109.91,
+    "Diff % vs Entry": "+3.88%"
+  },
+  "DIVISLAB": {
+    "Symbol": "DIVISLAB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DIVISLAB",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 83.92,
+    "CMP (\u20b9)": 8056.0,
+    "Target Entry (\u20b9)": 6512.09,
+    "Diff % vs Entry": "+23.71%"
+  },
+  "DIXON": {
+    "Symbol": "DIXON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DIXON",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 60.04,
+    "CMP (\u20b9)": 14049.0,
+    "Target Entry (\u20b9)": 11757.11,
+    "Diff % vs Entry": "+19.49%"
+  },
+  "DLF": {
+    "Symbol": "DLF",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DLF",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 55.27,
+    "CMP (\u20b9)": 659.3,
+    "Target Entry (\u20b9)": 604.35,
+    "Diff % vs Entry": "+9.09%"
+  },
+  "DMART": {
+    "Symbol": "DMART",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DMART",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 35.6,
+    "CMP (\u20b9)": 3874.0,
+    "Target Entry (\u20b9)": 4337.21,
+    "Diff % vs Entry": "-10.68%"
+  },
+  "DOMS": {
+    "Symbol": "DOMS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DOMS",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 47.35,
+    "CMP (\u20b9)": 2255.0,
+    "Target Entry (\u20b9)": 2280.25,
+    "Diff % vs Entry": "-1.11%"
+  },
+  "DRREDDY": {
+    "Symbol": "DRREDDY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:DRREDDY",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 27.99,
+    "CMP (\u20b9)": 1148.1,
+    "Target Entry (\u20b9)": 1333.38,
+    "Diff % vs Entry": "-13.9%"
+  },
+  "ECLERX": {
+    "Symbol": "ECLERX",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ECLERX",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 64.22,
+    "CMP (\u20b9)": 1910.9,
+    "Target Entry (\u20b9)": 1303.73,
+    "Diff % vs Entry": "+46.57%"
+  },
+  "EICHERMOT": {
+    "Symbol": "EICHERMOT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EICHERMOT",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 66.34,
+    "CMP (\u20b9)": 7833.5,
+    "Target Entry (\u20b9)": 6926.58,
+    "Diff % vs Entry": "+13.09%"
+  },
+  "EIDPARRY": {
+    "Symbol": "EIDPARRY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EIDPARRY",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 52.08,
+    "CMP (\u20b9)": 763.2,
+    "Target Entry (\u20b9)": 707.63,
+    "Diff % vs Entry": "+7.85%"
+  },
+  "EIHOTEL": {
+    "Symbol": "EIHOTEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EIHOTEL",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 53.0,
+    "CMP (\u20b9)": 330.55,
+    "Target Entry (\u20b9)": 314.24,
+    "Diff % vs Entry": "+5.19%"
+  },
+  "ELECON": {
+    "Symbol": "ELECON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ELECON",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 27.86,
+    "CMP (\u20b9)": 419.05,
+    "Target Entry (\u20b9)": 526.42,
+    "Diff % vs Entry": "-20.4%"
+  },
+  "ELGIEQUIP": {
+    "Symbol": "ELGIEQUIP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ELGIEQUIP",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 43.66,
+    "CMP (\u20b9)": 569.15,
+    "Target Entry (\u20b9)": 589.56,
+    "Diff % vs Entry": "-3.46%"
+  },
+  "EMAMILTD": {
+    "Symbol": "EMAMILTD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EMAMILTD",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 45.35,
+    "CMP (\u20b9)": 403.35,
+    "Target Entry (\u20b9)": 400.41,
+    "Diff % vs Entry": "+0.73%"
+  },
+  "EMCURE": {
+    "Symbol": "EMCURE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EMCURE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 60.55,
+    "CMP (\u20b9)": 1910.9,
+    "Target Entry (\u20b9)": 1810.61,
+    "Diff % vs Entry": "+5.54%"
+  },
+  "EMMVEE": {
+    "Symbol": "EMMVEE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EMMVEE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 44.73,
+    "CMP (\u20b9)": 317.6,
+    "Target Entry (\u20b9)": 338.29,
+    "Diff % vs Entry": "-6.12%"
+  },
+  "ENDURANCE": {
+    "Symbol": "ENDURANCE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ENDURANCE",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 56.91,
+    "CMP (\u20b9)": 2758.3,
+    "Target Entry (\u20b9)": 2630.5,
+    "Diff % vs Entry": "+4.86%"
+  },
+  "ENGINERSIN": {
+    "Symbol": "ENGINERSIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ENGINERSIN",
+    "Verdict Reason": "",
+    "Daily RSI (14)": 38.24,
+    "CMP (\u20b9)": 221.98,
+    "Target Entry (\u20b9)": 236.49,
+    "Diff % vs Entry": "-6.14%"
+  },
+  "ENRIN": {
+    "Symbol": "ENRIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ENRIN",
+    "Verdict Reason": ""
+  },
+  "ERIS": {
+    "Symbol": "ERIS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ERIS",
+    "Verdict Reason": ""
+  },
+  "ESCORTS": {
+    "Symbol": "ESCORTS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ESCORTS",
+    "Verdict Reason": ""
+  },
+  "ETERNAL": {
+    "Symbol": "ETERNAL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ETERNAL",
+    "Verdict Reason": ""
+  },
+  "EXIDEIND": {
+    "Symbol": "EXIDEIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:EXIDEIND",
+    "Verdict Reason": ""
+  },
+  "FACT": {
+    "Symbol": "FACT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FACT",
+    "Verdict Reason": ""
+  },
+  "FEDERALBNK": {
+    "Symbol": "FEDERALBNK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FEDERALBNK",
+    "Verdict Reason": ""
+  },
+  "FINCABLES": {
+    "Symbol": "FINCABLES",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FINCABLES",
+    "Verdict Reason": ""
+  },
+  "FIRSTCRY": {
+    "Symbol": "FIRSTCRY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FIRSTCRY",
+    "Verdict Reason": ""
+  },
+  "FIVESTAR": {
+    "Symbol": "FIVESTAR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FIVESTAR",
+    "Verdict Reason": ""
+  },
+  "FLUOROCHEM": {
+    "Symbol": "FLUOROCHEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FLUOROCHEM",
+    "Verdict Reason": ""
+  },
+  "FORCEMOT": {
+    "Symbol": "FORCEMOT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FORCEMOT",
+    "Verdict Reason": ""
+  },
+  "FORTIS": {
+    "Symbol": "FORTIS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FORTIS",
+    "Verdict Reason": ""
+  },
+  "FSL": {
+    "Symbol": "FSL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:FSL",
+    "Verdict Reason": ""
+  },
+  "GABRIEL": {
+    "Symbol": "GABRIEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GABRIEL",
+    "Verdict Reason": ""
+  },
+  "GAIL": {
+    "Symbol": "GAIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GAIL",
+    "Technical Research Thesis": ""
+  },
+  "GALLANTT": {
+    "Symbol": "GALLANTT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GALLANTT",
+    "Technical Research Thesis": ""
+  },
+  "GESHIP": {
+    "Symbol": "GESHIP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GESHIP",
+    "Technical Research Thesis": ""
+  },
+  "GICRE": {
+    "Symbol": "GICRE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GICRE",
+    "Technical Research Thesis": ""
+  },
+  "GILLETTE": {
+    "Symbol": "GILLETTE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GILLETTE",
+    "Technical Research Thesis": ""
+  },
+  "GLAND": {
+    "Symbol": "GLAND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GLAND",
+    "Technical Research Thesis": ""
+  },
+  "GLAXO": {
+    "Symbol": "GLAXO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GLAXO",
+    "Technical Research Thesis": ""
+  },
+  "GLENMARK": {
+    "Symbol": "GLENMARK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GLENMARK",
+    "Technical Research Thesis": ""
+  },
+  "GMDCLTD": {
+    "Symbol": "GMDCLTD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GMDCLTD",
+    "Technical Research Thesis": ""
+  },
+  "GMRAIRPORT": {
+    "Symbol": "GMRAIRPORT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GMRAIRPORT",
+    "Technical Research Thesis": ""
+  },
+  "GODFRYPHLP": {
+    "Symbol": "GODFRYPHLP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GODFRYPHLP",
+    "Technical Research Thesis": ""
+  },
+  "GODIGIT": {
+    "Symbol": "GODIGIT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GODIGIT",
+    "Technical Research Thesis": ""
+  },
+  "GODREJCP": {
+    "Symbol": "GODREJCP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GODREJCP",
+    "Technical Research Thesis": ""
+  },
+  "GODREJIND": {
+    "Symbol": "GODREJIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GODREJIND",
+    "Technical Research Thesis": ""
+  },
+  "GODREJPROP": {
+    "Symbol": "GODREJPROP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GODREJPROP",
+    "Technical Research Thesis": ""
+  },
+  "GPIL": {
+    "Symbol": "GPIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GPIL",
+    "Technical Research Thesis": ""
+  },
+  "GRANULES": {
+    "Symbol": "GRANULES",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GRANULES",
+    "Technical Research Thesis": ""
+  },
+  "GRAPHITE": {
+    "Symbol": "GRAPHITE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GRAPHITE",
+    "Technical Research Thesis": ""
+  },
+  "GRASIM": {
+    "Symbol": "GRASIM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GRASIM",
+    "Technical Research Thesis": ""
+  },
+  "GRAVITA": {
+    "Symbol": "GRAVITA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GRAVITA",
+    "Technical Research Thesis": ""
+  },
+  "GROWW": {
+    "Symbol": "GROWW",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GROWW",
+    "Technical Research Thesis": ""
+  },
+  "GRSE": {
+    "Symbol": "GRSE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GRSE",
+    "Technical Research Thesis": ""
+  },
+  "GVT&D": {
+    "Symbol": "GVT&D",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:GVT&D",
+    "Technical Research Thesis": ""
+  },
+  "HAL": {
+    "Symbol": "HAL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HAL",
+    "Technical Research Thesis": ""
+  },
+  "HAVELLS": {
+    "Symbol": "HAVELLS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HAVELLS",
+    "Technical Research Thesis": ""
+  },
+  "HBLENGINE": {
+    "Symbol": "HBLENGINE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HBLENGINE",
+    "Technical Research Thesis": ""
+  },
+  "HCLTECH": {
+    "Symbol": "HCLTECH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HCLTECH",
+    "Technical Research Thesis": ""
+  },
+  "HDBFS": {
+    "Symbol": "HDBFS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HDBFS",
+    "Technical Research Thesis": ""
+  },
+  "HDFCAMC": {
+    "Symbol": "HDFCAMC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HDFCAMC",
+    "Technical Research Thesis": ""
+  },
+  "HDFCBANK": {
+    "Symbol": "HDFCBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HDFCBANK",
+    "Technical Research Thesis": ""
+  },
+  "HDFCLIFE": {
+    "Symbol": "HDFCLIFE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HDFCLIFE",
+    "Technical Research Thesis": ""
+  },
+  "HEG": {
+    "Symbol": "HEG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HEG",
+    "Technical Research Thesis": ""
+  },
+  "HEROMOTOCO": {
+    "Symbol": "HEROMOTOCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HEROMOTOCO",
+    "Technical Research Thesis": ""
+  },
+  "HEXT": {
+    "Symbol": "HEXT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HEXT",
+    "Technical Research Thesis": ""
+  },
+  "HFCL": {
+    "Symbol": "HFCL",
+    "Verdict": "HOLD",
+    "Conviction Score": "5 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HFCL",
+    "Technical Research Thesis": "Technical structure reviewed."
+  },
+  "HINDALCO": {
+    "Symbol": "HINDALCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HINDALCO",
+    "Technical Research Thesis": ""
+  },
+  "HINDCOPPER": {
+    "Symbol": "HINDCOPPER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HINDCOPPER",
+    "Technical Research Thesis": ""
+  },
+  "HINDPETRO": {
+    "Symbol": "HINDPETRO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HINDPETRO",
+    "Technical Research Thesis": ""
+  },
+  "HINDUNILVR": {
+    "Symbol": "HINDUNILVR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HINDUNILVR",
+    "Technical Research Thesis": ""
+  },
+  "HINDZINC": {
+    "Symbol": "HINDZINC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HINDZINC",
+    "Technical Research Thesis": ""
+  },
+  "HOMEFIRST": {
+    "Symbol": "HOMEFIRST",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HOMEFIRST",
+    "Technical Research Thesis": ""
+  },
+  "HONASA": {
+    "Symbol": "HONASA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HONASA",
+    "Technical Research Thesis": ""
+  },
+  "HONAUT": {
+    "Symbol": "HONAUT",
+    "Verdict": "HOLD",
+    "Conviction Score": "5 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HONAUT",
+    "Technical Research Thesis": "Local model error: Ensure Ollama is running (`ollama run moondream`)."
+  },
+  "HSCL": {
+    "Symbol": "HSCL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HSCL",
+    "Technical Research Thesis": ""
+  },
+  "HUDCO": {
+    "Symbol": "HUDCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HUDCO",
+    "Technical Research Thesis": ""
+  },
+  "HYUNDAI": {
+    "Symbol": "HYUNDAI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:HYUNDAI",
+    "Technical Research Thesis": ""
+  },
+  "ICICIAMC": {
+    "Symbol": "ICICIAMC",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ICICIAMC",
+    "Technical Research Thesis": ""
+  },
+  "ICICIBANK": {
+    "Symbol": "ICICIBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ICICIBANK",
+    "Technical Research Thesis": ""
+  },
+  "ICICIGI": {
+    "Symbol": "ICICIGI",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ICICIGI",
+    "Technical Research Thesis": ""
+  },
+  "ICICIPRULI": {
+    "Symbol": "ICICIPRULI",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ICICIPRULI",
+    "Technical Research Thesis": ""
+  },
+  "IDBI": {
+    "Symbol": "IDBI",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IDBI",
+    "Technical Research Thesis": ""
+  },
+  "IDEA": {
+    "Symbol": "IDEA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IDEA",
+    "Technical Research Thesis": ""
+  },
+  "IDFCFIRSTB": {
+    "Symbol": "IDFCFIRSTB",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IDFCFIRSTB",
+    "Technical Research Thesis": ""
+  },
+  "IEX": {
+    "Symbol": "IEX",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IEX",
+    "Technical Research Thesis": ""
+  },
+  "IFCI": {
+    "Symbol": "IFCI",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IFCI",
+    "Technical Research Thesis": ""
+  },
+  "IGIL": {
+    "Symbol": "IGIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IGIL",
+    "Technical Research Thesis": ""
+  },
+  "IGL": {
+    "Symbol": "IGL",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IGL",
+    "Technical Research Thesis": ""
+  },
+  "IIFL": {
+    "Symbol": "IIFL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IIFL",
+    "Technical Research Thesis": ""
+  },
+  "IKS": {
+    "Symbol": "IKS",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IKS",
+    "Technical Research Thesis": ""
+  },
+  "INDGN": {
+    "Symbol": "INDGN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDGN",
+    "Technical Research Thesis": ""
+  },
+  "INDHOTEL": {
+    "Symbol": "INDHOTEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDHOTEL",
+    "Technical Research Thesis": ""
+  },
+  "INDIACEM": {
+    "Symbol": "INDIACEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDIACEM",
+    "Technical Research Thesis": ""
+  },
+  "INDIAMART": {
+    "Symbol": "INDIAMART",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDIAMART",
+    "Technical Research Thesis": ""
+  },
+  "INDIANB": {
+    "Symbol": "INDIANB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDIANB",
+    "Technical Research Thesis": ""
+  },
+  "INDIGO": {
+    "Symbol": "INDIGO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDIGO",
+    "Technical Research Thesis": ""
+  },
+  "INDUSINDBK": {
+    "Symbol": "INDUSINDBK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDUSINDBK",
+    "Technical Research Thesis": ""
+  },
+  "INDUSTOWER": {
+    "Symbol": "INDUSTOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INDUSTOWER",
+    "Technical Research Thesis": ""
+  },
+  "INFY": {
+    "Symbol": "INFY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INFY",
+    "Technical Research Thesis": ""
+  },
+  "INOXWIND": {
+    "Symbol": "INOXWIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INOXWIND",
+    "Technical Research Thesis": ""
+  },
+  "INTELLECT": {
+    "Symbol": "INTELLECT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:INTELLECT",
+    "Technical Research Thesis": ""
+  },
+  "IOB": {
+    "Symbol": "IOB",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IOB",
+    "Technical Research Thesis": ""
+  },
+  "IOC": {
+    "Symbol": "IOC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IOC",
+    "Technical Research Thesis": ""
+  },
+  "IPCALAB": {
+    "Symbol": "IPCALAB",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IPCALAB",
+    "Technical Research Thesis": ""
+  },
+  "IRB": {
+    "Symbol": "IRB",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IRB",
+    "Technical Research Thesis": ""
+  },
+  "IRCON": {
+    "Symbol": "IRCON",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IRCON",
+    "Technical Research Thesis": ""
+  },
+  "IRCTC": {
+    "Symbol": "IRCTC",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IRCTC",
+    "Technical Research Thesis": ""
+  },
+  "IREDA": {
+    "Symbol": "IREDA",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IREDA",
+    "Technical Research Thesis": ""
+  },
+  "IRFC": {
+    "Symbol": "IRFC",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:IRFC",
+    "Technical Research Thesis": ""
+  },
+  "ITC": {
+    "Symbol": "ITC",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ITC",
+    "Technical Research Thesis": ""
+  },
+  "ITCHOTELS": {
+    "Symbol": "ITCHOTELS",
+    "Verdict": "HOLD",
+    "Conviction Score": "6 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ITCHOTELS",
+    "Technical Research Thesis": ""
+  },
+  "ITI": {
+    "Symbol": "ITI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ITI",
+    "Technical Research Thesis": ""
+  },
+  "J&KBANK": {
+    "Symbol": "J&KBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:J&KBANK",
+    "Technical Research Thesis": ""
+  },
+  "JAINREC": {
+    "Symbol": "JAINREC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JAINREC",
+    "Technical Research Thesis": ""
+  },
+  "JBMA": {
+    "Symbol": "JBMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JBMA",
+    "Technical Research Thesis": ""
+  },
+  "JINDALSAW": {
+    "Symbol": "JINDALSAW",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JINDALSAW",
+    "Technical Research Thesis": ""
+  },
+  "JINDALSTEL": {
+    "Symbol": "JINDALSTEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JINDALSTEL",
+    "Technical Research Thesis": ""
+  },
+  "JIOFIN": {
+    "Symbol": "JIOFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JIOFIN",
+    "Technical Research Thesis": ""
+  },
+  "JKCEMENT": {
+    "Symbol": "JKCEMENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JKCEMENT",
+    "Technical Research Thesis": ""
+  },
+  "JKTYRE": {
+    "Symbol": "JKTYRE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JKTYRE",
+    "Technical Research Thesis": ""
+  },
+  "JMFINANCIL": {
+    "Symbol": "JMFINANCIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JMFINANCIL",
+    "Technical Research Thesis": ""
+  },
+  "JPPOWER": {
+    "Symbol": "JPPOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JPPOWER",
+    "Technical Research Thesis": ""
+  },
+  "JSL": {
+    "Symbol": "JSL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JSL",
+    "Technical Research Thesis": ""
+  },
+  "JSWCEMENT": {
+    "Symbol": "JSWCEMENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JSWCEMENT",
+    "Technical Research Thesis": ""
+  },
+  "JSWDULUX": {
+    "Symbol": "JSWDULUX",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JSWDULUX",
+    "Technical Research Thesis": ""
+  },
+  "JSWENERGY": {
+    "Symbol": "JSWENERGY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JSWENERGY",
+    "Technical Research Thesis": ""
+  },
+  "JSWINFRA": {
+    "Symbol": "JSWINFRA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JSWINFRA",
+    "Technical Research Thesis": ""
+  },
+  "JSWSTEEL": {
+    "Symbol": "JSWSTEEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JSWSTEEL",
+    "Technical Research Thesis": ""
+  },
+  "JUBLFOOD": {
+    "Symbol": "JUBLFOOD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JUBLFOOD",
+    "Technical Research Thesis": ""
+  },
+  "JUBLINGREA": {
+    "Symbol": "JUBLINGREA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JUBLINGREA",
+    "Technical Research Thesis": ""
+  },
+  "JUBLPHARMA": {
+    "Symbol": "JUBLPHARMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JUBLPHARMA",
+    "Technical Research Thesis": ""
+  },
+  "JWL": {
+    "Symbol": "JWL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JWL",
+    "Technical Research Thesis": ""
+  },
+  "JYOTICNC": {
+    "Symbol": "JYOTICNC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:JYOTICNC",
+    "Technical Research Thesis": ""
+  },
+  "KAJARIACER": {
+    "Symbol": "KAJARIACER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KAJARIACER",
+    "Technical Research Thesis": ""
+  },
+  "KALYANKJIL": {
+    "Symbol": "KALYANKJIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KALYANKJIL",
+    "Technical Research Thesis": ""
+  },
+  "KARURVYSYA": {
+    "Symbol": "KARURVYSYA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KARURVYSYA",
+    "Technical Research Thesis": ""
+  },
+  "KAYNES": {
+    "Symbol": "KAYNES",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KAYNES",
+    "Technical Research Thesis": ""
+  },
+  "KEC": {
+    "Symbol": "KEC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KEC",
+    "Technical Research Thesis": ""
+  },
+  "KEI": {
+    "Symbol": "KEI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KEI",
+    "Technical Research Thesis": ""
+  },
+  "KFINTECH": {
+    "Symbol": "KFINTECH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KFINTECH",
+    "Technical Research Thesis": ""
+  },
+  "KIMS": {
+    "Symbol": "KIMS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KIMS",
+    "Technical Research Thesis": ""
+  },
+  "KIRLOSENG": {
+    "Symbol": "KIRLOSENG",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KIRLOSENG",
+    "Technical Research Thesis": ""
+  },
+  "KOTAKBANK": {
+    "Symbol": "KOTAKBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KOTAKBANK",
+    "Technical Research Thesis": ""
+  },
+  "KPIL": {
+    "Symbol": "KPIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KPIL",
+    "Technical Research Thesis": ""
+  },
+  "KPITTECH": {
+    "Symbol": "KPITTECH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KPITTECH",
+    "Technical Research Thesis": ""
+  },
+  "KPRMILL": {
+    "Symbol": "KPRMILL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:KPRMILL",
+    "Technical Research Thesis": ""
+  },
+  "LALPATHLAB": {
+    "Symbol": "LALPATHLAB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LALPATHLAB",
+    "Technical Research Thesis": ""
+  },
+  "LATENTVIEW": {
+    "Symbol": "LATENTVIEW",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LATENTVIEW",
+    "Technical Research Thesis": ""
+  },
+  "LAURUSLABS": {
+    "Symbol": "LAURUSLABS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LAURUSLABS",
+    "Technical Research Thesis": ""
+  },
+  "LEMONTREE": {
+    "Symbol": "LEMONTREE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LEMONTREE",
+    "Technical Research Thesis": ""
+  },
+  "LENSKART": {
+    "Symbol": "LENSKART",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LENSKART",
+    "Technical Research Thesis": ""
+  },
+  "LGEINDIA": {
+    "Symbol": "LGEINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LGEINDIA",
+    "Technical Research Thesis": ""
+  },
+  "LICHSGFIN": {
+    "Symbol": "LICHSGFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LICHSGFIN",
+    "Technical Research Thesis": ""
+  },
+  "LICI": {
+    "Symbol": "LICI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LICI",
+    "Technical Research Thesis": ""
+  },
+  "LINDEINDIA": {
+    "Symbol": "LINDEINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LINDEINDIA",
+    "Technical Research Thesis": ""
+  },
+  "LLOYDSME": {
+    "Symbol": "LLOYDSME",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LLOYDSME",
+    "Technical Research Thesis": ""
+  },
+  "LODHA": {
+    "Symbol": "LODHA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LODHA",
+    "Technical Research Thesis": ""
+  },
+  "LT": {
+    "Symbol": "LT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LT",
+    "Technical Research Thesis": ""
+  },
+  "LTF": {
+    "Symbol": "LTF",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LTF",
+    "Technical Research Thesis": ""
+  },
+  "LTFOODS": {
+    "Symbol": "LTFOODS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LTFOODS",
+    "Technical Research Thesis": ""
+  },
+  "LTM": {
+    "Symbol": "LTM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LTM",
+    "Technical Research Thesis": ""
+  },
+  "LTTS": {
+    "Symbol": "LTTS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LTTS",
+    "Technical Research Thesis": ""
+  },
+  "LUPIN": {
+    "Symbol": "LUPIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:LUPIN",
+    "Technical Research Thesis": ""
+  },
+  "M&M": {
+    "Symbol": "M&M",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:M&M",
+    "Technical Research Thesis": ""
+  },
+  "M&MFIN": {
+    "Symbol": "M&MFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:M&MFIN",
+    "Technical Research Thesis": ""
+  },
+  "MAHABANK": {
+    "Symbol": "MAHABANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MAHABANK",
+    "Technical Research Thesis": ""
+  },
+  "MANAPPURAM": {
+    "Symbol": "MANAPPURAM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MANAPPURAM",
+    "Technical Research Thesis": ""
+  },
+  "MANKIND": {
+    "Symbol": "MANKIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MANKIND",
+    "Technical Research Thesis": ""
+  },
+  "MAPMYINDIA": {
+    "Symbol": "MAPMYINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MAPMYINDIA",
+    "Technical Research Thesis": ""
+  },
+  "MARICO": {
+    "Symbol": "MARICO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MARICO",
+    "Technical Research Thesis": ""
+  },
+  "MARUTI": {
+    "Symbol": "MARUTI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MARUTI",
+    "Technical Research Thesis": ""
+  },
+  "MAXHEALTH": {
+    "Symbol": "MAXHEALTH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MAXHEALTH",
+    "Technical Research Thesis": ""
+  },
+  "MAZDOCK": {
+    "Symbol": "MAZDOCK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MAZDOCK",
+    "Technical Research Thesis": ""
+  },
+  "MCX": {
+    "Symbol": "MCX",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MCX",
+    "Technical Research Thesis": ""
+  },
+  "MEDANTA": {
+    "Symbol": "MEDANTA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MEDANTA",
+    "Technical Research Thesis": ""
+  },
+  "MEESHO": {
+    "Symbol": "MEESHO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MEESHO",
+    "Technical Research Thesis": ""
+  },
+  "MFSL": {
+    "Symbol": "MFSL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MFSL",
+    "Technical Research Thesis": ""
+  },
+  "MGL": {
+    "Symbol": "MGL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MGL",
+    "Technical Research Thesis": ""
+  },
+  "MINDACORP": {
+    "Symbol": "MINDACORP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MINDACORP",
+    "Technical Research Thesis": ""
+  },
+  "MMTC": {
+    "Symbol": "MMTC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MMTC",
+    "Technical Research Thesis": ""
+  },
+  "MOTHERSON": {
+    "Symbol": "MOTHERSON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MOTHERSON",
+    "Technical Research Thesis": ""
+  },
+  "MOTILALOFS": {
+    "Symbol": "MOTILALOFS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MOTILALOFS",
+    "Technical Research Thesis": ""
+  },
+  "MPHASIS": {
+    "Symbol": "MPHASIS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MPHASIS",
+    "Technical Research Thesis": ""
+  },
+  "MRF": {
+    "Symbol": "MRF",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MRF",
+    "Technical Research Thesis": ""
+  },
+  "MRPL": {
+    "Symbol": "MRPL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MRPL",
+    "Technical Research Thesis": ""
+  },
+  "MSUMI": {
+    "Symbol": "MSUMI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MSUMI",
+    "Technical Research Thesis": ""
+  },
+  "MUTHOOTFIN": {
+    "Symbol": "MUTHOOTFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:MUTHOOTFIN",
+    "Technical Research Thesis": ""
+  },
+  "NAM-INDIA": {
+    "Symbol": "NAM-INDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NAM-INDIA",
+    "Technical Research Thesis": ""
+  },
+  "NATCOPHARM": {
+    "Symbol": "NATCOPHARM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NATCOPHARM",
+    "Technical Research Thesis": ""
+  },
+  "NATIONALUM": {
+    "Symbol": "NATIONALUM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NATIONALUM",
+    "Technical Research Thesis": ""
+  },
+  "NAUKRI": {
+    "Symbol": "NAUKRI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NAUKRI",
+    "Technical Research Thesis": ""
+  },
+  "NAVA": {
+    "Symbol": "NAVA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NAVA",
+    "Technical Research Thesis": ""
+  },
+  "NAVINFLUOR": {
+    "Symbol": "NAVINFLUOR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NAVINFLUOR",
+    "Technical Research Thesis": ""
+  },
+  "NBCC": {
+    "Symbol": "NBCC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NBCC",
+    "Technical Research Thesis": ""
+  },
+  "NCC": {
+    "Symbol": "NCC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NCC",
+    "Technical Research Thesis": ""
+  },
+  "NESTLEIND": {
+    "Symbol": "NESTLEIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NESTLEIND",
+    "Technical Research Thesis": ""
+  },
+  "NETWEB": {
+    "Symbol": "NETWEB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NETWEB",
+    "Technical Research Thesis": ""
+  },
+  "NEULANDLAB": {
+    "Symbol": "NEULANDLAB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NEULANDLAB",
+    "Technical Research Thesis": ""
+  },
+  "NEWGEN": {
+    "Symbol": "NEWGEN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NEWGEN",
+    "Technical Research Thesis": ""
+  },
+  "NH": {
+    "Symbol": "NH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NH",
+    "Technical Research Thesis": ""
+  },
+  "NHPC": {
+    "Symbol": "NHPC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NHPC",
+    "Technical Research Thesis": ""
+  },
+  "NIACL": {
+    "Symbol": "NIACL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NIACL",
+    "Technical Research Thesis": ""
+  },
+  "NIVABUPA": {
+    "Symbol": "NIVABUPA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NIVABUPA",
+    "Technical Research Thesis": ""
+  },
+  "NLCINDIA": {
+    "Symbol": "NLCINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NLCINDIA",
+    "Technical Research Thesis": ""
+  },
+  "NMDC": {
+    "Symbol": "NMDC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NMDC",
+    "Technical Research Thesis": ""
+  },
+  "NSLNISP": {
+    "Symbol": "NSLNISP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NSLNISP",
+    "Technical Research Thesis": ""
+  },
+  "NTPC": {
+    "Symbol": "NTPC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NTPC",
+    "Technical Research Thesis": ""
+  },
+  "NTPCGREEN": {
+    "Symbol": "NTPCGREEN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NTPCGREEN",
+    "Technical Research Thesis": ""
+  },
+  "NUVAMA": {
+    "Symbol": "NUVAMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NUVAMA",
+    "Technical Research Thesis": ""
+  },
+  "NUVOCO": {
+    "Symbol": "NUVOCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NUVOCO",
+    "Technical Research Thesis": ""
+  },
+  "NYKAA": {
+    "Symbol": "NYKAA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:NYKAA",
+    "Technical Research Thesis": ""
+  },
+  "OBEROIRLTY": {
+    "Symbol": "OBEROIRLTY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:OBEROIRLTY",
+    "Technical Research Thesis": ""
+  },
+  "OFSS": {
+    "Symbol": "OFSS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:OFSS",
+    "Technical Research Thesis": ""
+  },
+  "OIL": {
+    "Symbol": "OIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:OIL",
+    "Technical Research Thesis": ""
+  },
+  "OLAELEC": {
+    "Symbol": "OLAELEC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:OLAELEC",
+    "Technical Research Thesis": ""
+  },
+  "OLECTRA": {
+    "Symbol": "OLECTRA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:OLECTRA",
+    "Technical Research Thesis": ""
+  },
+  "ONESOURCE": {
+    "Symbol": "ONESOURCE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ONESOURCE",
+    "Technical Research Thesis": ""
+  },
+  "ONGC": {
+    "Symbol": "ONGC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ONGC",
+    "Technical Research Thesis": ""
+  },
+  "PAGEIND": {
+    "Symbol": "PAGEIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PAGEIND",
+    "Technical Research Thesis": ""
+  },
+  "PARADEEP": {
+    "Symbol": "PARADEEP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PARADEEP",
+    "Technical Research Thesis": ""
+  },
+  "PATANJALI": {
+    "Symbol": "PATANJALI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PATANJALI",
+    "Technical Research Thesis": ""
+  },
+  "PAYTM": {
+    "Symbol": "PAYTM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PAYTM",
+    "Technical Research Thesis": ""
+  },
+  "PCBL": {
+    "Symbol": "PCBL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PCBL",
+    "Technical Research Thesis": ""
+  },
+  "PERSISTENT": {
+    "Symbol": "PERSISTENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PERSISTENT",
+    "Technical Research Thesis": ""
+  },
+  "PETRONET": {
+    "Symbol": "PETRONET",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PETRONET",
+    "Technical Research Thesis": ""
+  },
+  "PFC": {
+    "Symbol": "PFC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PFC",
+    "Technical Research Thesis": ""
+  },
+  "PFIZER": {
+    "Symbol": "PFIZER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PFIZER",
+    "Technical Research Thesis": ""
+  },
+  "PFOCUS": {
+    "Symbol": "PFOCUS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PFOCUS",
+    "Technical Research Thesis": ""
+  },
+  "PGEL": {
+    "Symbol": "PGEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PGEL",
+    "Technical Research Thesis": ""
+  },
+  "PHOENIXLTD": {
+    "Symbol": "PHOENIXLTD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PHOENIXLTD",
+    "Technical Research Thesis": ""
+  },
+  "PIDILITIND": {
+    "Symbol": "PIDILITIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PIDILITIND",
+    "Technical Research Thesis": ""
+  },
+  "PIIND": {
+    "Symbol": "PIIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PIIND",
+    "Technical Research Thesis": ""
+  },
+  "PINELABS": {
+    "Symbol": "PINELABS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PINELABS",
+    "Technical Research Thesis": ""
+  },
+  "PIRAMALFIN": {
+    "Symbol": "PIRAMALFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PIRAMALFIN",
+    "Technical Research Thesis": ""
+  },
+  "PNB": {
+    "Symbol": "PNB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PNB",
+    "Technical Research Thesis": ""
+  },
+  "PNBHOUSING": {
+    "Symbol": "PNBHOUSING",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PNBHOUSING",
+    "Technical Research Thesis": ""
+  },
+  "POLICYBZR": {
+    "Symbol": "POLICYBZR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:POLICYBZR",
+    "Technical Research Thesis": ""
+  },
+  "POLYCAB": {
+    "Symbol": "POLYCAB",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:POLYCAB",
+    "Technical Research Thesis": ""
+  },
+  "POLYMED": {
+    "Symbol": "POLYMED",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:POLYMED",
+    "Technical Research Thesis": ""
+  },
+  "POONAWALLA": {
+    "Symbol": "POONAWALLA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:POONAWALLA",
+    "Technical Research Thesis": ""
+  },
+  "POWERGRID": {
+    "Symbol": "POWERGRID",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:POWERGRID",
+    "Technical Research Thesis": ""
+  },
+  "POWERINDIA": {
+    "Symbol": "POWERINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:POWERINDIA",
+    "Technical Research Thesis": ""
+  },
+  "PPLPHARMA": {
+    "Symbol": "PPLPHARMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PPLPHARMA",
+    "Technical Research Thesis": ""
+  },
+  "PREMIERENE": {
+    "Symbol": "PREMIERENE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PREMIERENE",
+    "Technical Research Thesis": ""
+  },
+  "PRESTIGE": {
+    "Symbol": "PRESTIGE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PRESTIGE",
+    "Technical Research Thesis": ""
+  },
+  "PTCIL": {
+    "Symbol": "PTCIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PTCIL",
+    "Technical Research Thesis": ""
+  },
+  "PVRINOX": {
+    "Symbol": "PVRINOX",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PVRINOX",
+    "Technical Research Thesis": ""
+  },
+  "PWL": {
+    "Symbol": "PWL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:PWL",
+    "Technical Research Thesis": ""
+  },
+  "RADICO": {
+    "Symbol": "RADICO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RADICO",
+    "Technical Research Thesis": ""
+  },
+  "RAILTEL": {
+    "Symbol": "RAILTEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RAILTEL",
+    "Technical Research Thesis": ""
+  },
+  "RAINBOW": {
+    "Symbol": "RAINBOW",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RAINBOW",
+    "Technical Research Thesis": ""
+  },
+  "RAMCOCEM": {
+    "Symbol": "RAMCOCEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RAMCOCEM",
+    "Technical Research Thesis": ""
+  },
+  "RBLBANK": {
+    "Symbol": "RBLBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RBLBANK",
+    "Technical Research Thesis": ""
+  },
+  "RECLTD": {
+    "Symbol": "RECLTD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RECLTD",
+    "Technical Research Thesis": ""
+  },
+  "REDINGTON": {
+    "Symbol": "REDINGTON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:REDINGTON",
+    "Technical Research Thesis": ""
+  },
+  "RELIANCE": {
+    "Symbol": "RELIANCE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RELIANCE",
+    "Technical Research Thesis": ""
+  },
+  "RHIM": {
+    "Symbol": "RHIM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RHIM",
+    "Technical Research Thesis": ""
+  },
+  "RITES": {
+    "Symbol": "RITES",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RITES",
+    "Technical Research Thesis": ""
+  },
+  "RKFORGE": {
+    "Symbol": "RKFORGE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RKFORGE",
+    "Technical Research Thesis": ""
+  },
+  "RPOWER": {
+    "Symbol": "RPOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RPOWER",
+    "Technical Research Thesis": ""
+  },
+  "RRKABEL": {
+    "Symbol": "RRKABEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RRKABEL",
+    "Technical Research Thesis": ""
+  },
+  "RVNL": {
+    "Symbol": "RVNL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:RVNL",
+    "Technical Research Thesis": ""
+  },
+  "SAGILITY": {
+    "Symbol": "SAGILITY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SAGILITY",
+    "Technical Research Thesis": ""
+  },
+  "SAIL": {
+    "Symbol": "SAIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SAIL",
+    "Technical Research Thesis": ""
+  },
+  "SAILIFE": {
+    "Symbol": "SAILIFE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SAILIFE",
+    "Technical Research Thesis": ""
+  },
+  "SAMMAANCAP": {
+    "Symbol": "SAMMAANCAP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SAMMAANCAP",
+    "Technical Research Thesis": ""
+  },
+  "SAPPHIRE": {
+    "Symbol": "SAPPHIRE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SAPPHIRE",
+    "Technical Research Thesis": ""
+  },
+  "SARDAEN": {
+    "Symbol": "SARDAEN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SARDAEN",
+    "Technical Research Thesis": ""
+  },
+  "SAREGAMA": {
+    "Symbol": "SAREGAMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SAREGAMA",
+    "Technical Research Thesis": ""
+  },
+  "SBFC": {
+    "Symbol": "SBFC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SBFC",
+    "Technical Research Thesis": ""
+  },
+  "SBICARD": {
+    "Symbol": "SBICARD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SBICARD",
+    "Technical Research Thesis": ""
+  },
+  "SBILIFE": {
+    "Symbol": "SBILIFE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SBILIFE",
+    "Technical Research Thesis": ""
+  },
+  "SBIN": {
+    "Symbol": "SBIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SBIN",
+    "Technical Research Thesis": ""
+  },
+  "SCHAEFFLER": {
+    "Symbol": "SCHAEFFLER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SCHAEFFLER",
+    "Technical Research Thesis": ""
+  },
+  "SCHNEIDER": {
+    "Symbol": "SCHNEIDER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SCHNEIDER",
+    "Technical Research Thesis": ""
+  },
+  "SCI": {
+    "Symbol": "SCI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SCI",
+    "Technical Research Thesis": ""
+  },
+  "SHREECEM": {
+    "Symbol": "SHREECEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SHREECEM",
+    "Technical Research Thesis": ""
+  },
+  "SHRIRAMFIN": {
+    "Symbol": "SHRIRAMFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SHRIRAMFIN",
+    "Technical Research Thesis": ""
+  },
+  "SHYAMMETL": {
+    "Symbol": "SHYAMMETL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SHYAMMETL",
+    "Technical Research Thesis": ""
+  },
+  "SIEMENS": {
+    "Symbol": "SIEMENS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SIEMENS",
+    "Technical Research Thesis": ""
+  },
+  "SIGNATURE": {
+    "Symbol": "SIGNATURE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SIGNATURE",
+    "Technical Research Thesis": ""
+  },
+  "SJVN": {
+    "Symbol": "SJVN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SJVN",
+    "Technical Research Thesis": ""
+  },
+  "SOBHA": {
+    "Symbol": "SOBHA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SOBHA",
+    "Technical Research Thesis": ""
+  },
+  "SOLARINDS": {
+    "Symbol": "SOLARINDS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SOLARINDS",
+    "Technical Research Thesis": ""
+  },
+  "SONACOMS": {
+    "Symbol": "SONACOMS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SONACOMS",
+    "Technical Research Thesis": ""
+  },
+  "SONATSOFTW": {
+    "Symbol": "SONATSOFTW",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SONATSOFTW",
+    "Technical Research Thesis": ""
+  },
+  "SPLPETRO": {
+    "Symbol": "SPLPETRO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SPLPETRO",
+    "Technical Research Thesis": ""
+  },
+  "SRF": {
+    "Symbol": "SRF",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SRF",
+    "Technical Research Thesis": ""
+  },
+  "STARHEALTH": {
+    "Symbol": "STARHEALTH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:STARHEALTH",
+    "Technical Research Thesis": ""
+  },
+  "SUMICHEM": {
+    "Symbol": "SUMICHEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SUMICHEM",
+    "Technical Research Thesis": ""
+  },
+  "SUNDARMFIN": {
+    "Symbol": "SUNDARMFIN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SUNDARMFIN",
+    "Technical Research Thesis": ""
+  },
+  "SUNPHARMA": {
+    "Symbol": "SUNPHARMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SUNPHARMA",
+    "Technical Research Thesis": ""
+  },
+  "SUNTV": {
+    "Symbol": "SUNTV",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SUNTV",
+    "Technical Research Thesis": ""
+  },
+  "SUPREMEIND": {
+    "Symbol": "SUPREMEIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SUPREMEIND",
+    "Technical Research Thesis": ""
+  },
+  "SUZLON": {
+    "Symbol": "SUZLON",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SUZLON",
+    "Technical Research Thesis": ""
+  },
+  "SWANCORP": {
+    "Symbol": "SWANCORP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SWANCORP",
+    "Technical Research Thesis": ""
+  },
+  "SWIGGY": {
+    "Symbol": "SWIGGY",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SWIGGY",
+    "Technical Research Thesis": ""
+  },
+  "SYNGENE": {
+    "Symbol": "SYNGENE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SYNGENE",
+    "Technical Research Thesis": ""
+  },
+  "SYRMA": {
+    "Symbol": "SYRMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:SYRMA",
+    "Technical Research Thesis": ""
+  },
+  "TARIL": {
+    "Symbol": "TARIL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TARIL",
+    "Technical Research Thesis": ""
+  },
+  "TATACAP": {
+    "Symbol": "TATACAP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATACAP",
+    "Technical Research Thesis": ""
+  },
+  "TATACHEM": {
+    "Symbol": "TATACHEM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATACHEM",
+    "Technical Research Thesis": ""
+  },
+  "TATACOMM": {
+    "Symbol": "TATACOMM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATACOMM",
+    "Technical Research Thesis": ""
+  },
+  "TATACONSUM": {
+    "Symbol": "TATACONSUM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATACONSUM",
+    "Technical Research Thesis": ""
+  },
+  "TATAELXSI": {
+    "Symbol": "TATAELXSI",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATAELXSI",
+    "Technical Research Thesis": ""
+  },
+  "TATAINVEST": {
+    "Symbol": "TATAINVEST",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATAINVEST",
+    "Technical Research Thesis": ""
+  },
+  "TATAPOWER": {
+    "Symbol": "TATAPOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATAPOWER",
+    "Technical Research Thesis": ""
+  },
+  "TATASTEEL": {
+    "Symbol": "TATASTEEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATASTEEL",
+    "Technical Research Thesis": ""
+  },
+  "TATATECH": {
+    "Symbol": "TATATECH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TATATECH",
+    "Technical Research Thesis": ""
+  },
+  "TBOTEK": {
+    "Symbol": "TBOTEK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TBOTEK",
+    "Technical Research Thesis": ""
+  },
+  "TCS": {
+    "Symbol": "TCS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TCS",
+    "Technical Research Thesis": ""
+  },
+  "TECHM": {
+    "Symbol": "TECHM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TECHM",
+    "Technical Research Thesis": ""
+  },
+  "TECHNOE": {
+    "Symbol": "TECHNOE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TECHNOE",
+    "Technical Research Thesis": ""
+  },
+  "TEGA": {
+    "Symbol": "TEGA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TEGA",
+    "Technical Research Thesis": ""
+  },
+  "TEJASNET": {
+    "Symbol": "TEJASNET",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TEJASNET",
+    "Technical Research Thesis": ""
+  },
+  "TENNIND": {
+    "Symbol": "TENNIND",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TENNIND",
+    "Technical Research Thesis": ""
+  },
+  "THELEELA": {
+    "Symbol": "THELEELA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:THELEELA",
+    "Technical Research Thesis": ""
+  },
+  "THERMAX": {
+    "Symbol": "THERMAX",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:THERMAX",
+    "Technical Research Thesis": ""
+  },
+  "TIINDIA": {
+    "Symbol": "TIINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TIINDIA",
+    "Technical Research Thesis": ""
+  },
+  "TIMKEN": {
+    "Symbol": "TIMKEN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TIMKEN",
+    "Technical Research Thesis": ""
+  },
+  "TITAGARH": {
+    "Symbol": "TITAGARH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TITAGARH",
+    "Technical Research Thesis": ""
+  },
+  "TITAN": {
+    "Symbol": "TITAN",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TITAN",
+    "Technical Research Thesis": ""
+  },
+  "TMCV": {
+    "Symbol": "TMCV",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TMCV",
+    "Technical Research Thesis": ""
+  },
+  "TMPV": {
+    "Symbol": "TMPV",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TMPV",
+    "Technical Research Thesis": ""
+  },
+  "TORNTPHARM": {
+    "Symbol": "TORNTPHARM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TORNTPHARM",
+    "Technical Research Thesis": ""
+  },
+  "TORNTPOWER": {
+    "Symbol": "TORNTPOWER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TORNTPOWER",
+    "Technical Research Thesis": ""
+  },
+  "TRAVELFOOD": {
+    "Symbol": "TRAVELFOOD",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TRAVELFOOD",
+    "Technical Research Thesis": ""
+  },
+  "TRENT": {
+    "Symbol": "TRENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TRENT",
+    "Technical Research Thesis": ""
+  },
+  "TRIDENT": {
+    "Symbol": "TRIDENT",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TRIDENT",
+    "Technical Research Thesis": ""
+  },
+  "TRITURBINE": {
+    "Symbol": "TRITURBINE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TRITURBINE",
+    "Technical Research Thesis": ""
+  },
+  "TTML": {
+    "Symbol": "TTML",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TTML",
+    "Technical Research Thesis": ""
+  },
+  "TVSMOTOR": {
+    "Symbol": "TVSMOTOR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:TVSMOTOR",
+    "Technical Research Thesis": ""
+  },
+  "UBL": {
+    "Symbol": "UBL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UBL",
+    "Technical Research Thesis": ""
+  },
+  "UCOBANK": {
+    "Symbol": "UCOBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UCOBANK",
+    "Technical Research Thesis": ""
+  },
+  "ULTRACEMCO": {
+    "Symbol": "ULTRACEMCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ULTRACEMCO",
+    "Technical Research Thesis": ""
+  },
+  "UNIONBANK": {
+    "Symbol": "UNIONBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UNIONBANK",
+    "Technical Research Thesis": ""
+  },
+  "UNITDSPR": {
+    "Symbol": "UNITDSPR",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UNITDSPR",
+    "Technical Research Thesis": ""
+  },
+  "UNOMINDA": {
+    "Symbol": "UNOMINDA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UNOMINDA",
+    "Technical Research Thesis": ""
+  },
+  "UPL": {
+    "Symbol": "UPL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UPL",
+    "Technical Research Thesis": ""
+  },
+  "URBANCO": {
+    "Symbol": "URBANCO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:URBANCO",
+    "Technical Research Thesis": ""
+  },
+  "USHAMART": {
+    "Symbol": "USHAMART",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:USHAMART",
+    "Technical Research Thesis": ""
+  },
+  "UTIAMC": {
+    "Symbol": "UTIAMC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:UTIAMC",
+    "Technical Research Thesis": ""
+  },
+  "VBL": {
+    "Symbol": "VBL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:VBL",
+    "Technical Research Thesis": ""
+  },
+  "VEDL": {
+    "Symbol": "VEDL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:VEDL",
+    "Technical Research Thesis": ""
+  },
+  "VIJAYA": {
+    "Symbol": "VIJAYA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:VIJAYA",
+    "Technical Research Thesis": ""
+  },
+  "VMM": {
+    "Symbol": "VMM",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:VMM",
+    "Technical Research Thesis": ""
+  },
+  "VOLTAS": {
+    "Symbol": "VOLTAS",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:VOLTAS",
+    "Technical Research Thesis": ""
+  },
+  "VTL": {
+    "Symbol": "VTL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:VTL",
+    "Technical Research Thesis": ""
+  },
+  "WAAREEENER": {
+    "Symbol": "WAAREEENER",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:WAAREEENER",
+    "Technical Research Thesis": ""
+  },
+  "WELCORP": {
+    "Symbol": "WELCORP",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:WELCORP",
+    "Technical Research Thesis": ""
+  },
+  "WELSPUNLIV": {
+    "Symbol": "WELSPUNLIV",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:WELSPUNLIV",
+    "Technical Research Thesis": ""
+  },
+  "WHIRLPOOL": {
+    "Symbol": "WHIRLPOOL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:WHIRLPOOL",
+    "Technical Research Thesis": ""
+  },
+  "WIPRO": {
+    "Symbol": "WIPRO",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:WIPRO",
+    "Technical Research Thesis": ""
+  },
+  "WOCKPHARMA": {
+    "Symbol": "WOCKPHARMA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:WOCKPHARMA",
+    "Technical Research Thesis": ""
+  },
+  "YESBANK": {
+    "Symbol": "YESBANK",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:YESBANK",
+    "Technical Research Thesis": ""
+  },
+  "ZEEL": {
+    "Symbol": "ZEEL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ZEEL",
+    "Technical Research Thesis": ""
+  },
+  "ZENSARTECH": {
+    "Symbol": "ZENSARTECH",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ZENSARTECH",
+    "Technical Research Thesis": ""
+  },
+  "ZENTEC": {
+    "Symbol": "ZENTEC",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ZENTEC",
+    "Technical Research Thesis": ""
+  },
+  "ZFCVINDIA": {
+    "Symbol": "ZFCVINDIA",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ZFCVINDIA",
+    "Technical Research Thesis": ""
+  },
+  "ZYDUSLIFE": {
+    "Symbol": "ZYDUSLIFE",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ZYDUSLIFE",
+    "Technical Research Thesis": ""
+  },
+  "ZYDUSWELL": {
+    "Symbol": "ZYDUSWELL",
+    "Verdict": "HOLD",
+    "Conviction Score": "1 / 10",
+    "Live Chart": "https://www.tradingview.com/chart/?symbol=NSE:ZYDUSWELL",
+    "Technical Research Thesis": ""
+  }
+}
