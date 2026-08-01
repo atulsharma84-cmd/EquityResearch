@@ -343,4 +343,3 @@ if not st.session_state['scan_results'].empty:
             st.markdown(f"[View Live Chart]({row['Live Chart']}) | [View Screener]({row['Research Doc']})")
 else:
     st.info("👈 Please put your chart screenshots in the `charts` folder and click 'Execute Master Stock Scan' in the sidebar to begin processing real-time data.")
-    ##---these is new changes
